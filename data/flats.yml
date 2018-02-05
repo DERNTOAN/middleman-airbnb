@@ -1,0 +1,21 @@
+DERNTOAN:
+  name: "Anton´s Home"
+  description: "Lovely flat in Mitte"
+  city_name: "Berlin, Germany"
+  city_slug: "berlin"
+  wifi: true
+  rating: 5
+Nomis223:
+  name: "Simon's home"
+  description: "Small house in Las Vegas"
+  city_name: "Las Vegas, USA"
+  city_slug: "las_vegas"
+  wifi: true
+  rating: 4.5
+monsieurpaillard:
+  name: Romain's home
+  description: Nice flat in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
